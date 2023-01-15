@@ -31,5 +31,6 @@ return neorg.modules.create_meta(
     "core.storage",
     "core.syntax",
     "core.tangle",
+    "core.todo-introspector",
     "core.upgrade"
 )
